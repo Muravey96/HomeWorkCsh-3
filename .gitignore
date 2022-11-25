@@ -397,3 +397,5 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 Task21.csproj
+Task19.csproj
+Task23.csproj
